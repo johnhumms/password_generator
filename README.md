@@ -7,3 +7,6 @@ Welcome to the password generator app. This app will generate a totally random p
 First, you will be able to choose the length of the password (password must be between 8 and 128 characters). Then select wheher you would like your password to feature special characters, lowercase characters, uppercase letters, or numbers. Once you have answered all the prompts, your password will appear in the box, like so:
 
 ![password-generator-screenshot](./images/password_generator_screenshot.png)
+
+## Try it yourself!
+https://johnhumms.github.io/password_generator/
